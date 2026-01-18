@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nnamdi</h1>
+<<h1 align="center">Hi 👋, I'm Nnamdi</h1>
 <h3 align="center">A passionate Data analyst from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andy-d-max&label=Profile%20views&color=0e75b6&style=flat" alt="andy-d-max" /> </p>
@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nnamdi-chimezie?ut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nnamdi-chimezie?ut" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nnamdi-chimezie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nnamdi-chimezie" height="30" width="40" /></a>
+<a href="https://fb.com/andy chimezie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andy chimezie" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/102241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="102241" height="30" width="40" /></a>
 </p>
 
